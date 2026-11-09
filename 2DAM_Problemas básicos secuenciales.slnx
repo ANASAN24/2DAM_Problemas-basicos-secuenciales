@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="Ejercicio1/Ejercicio1.csproj" />
+  <Project Path="Ejercicio2/Ejercicio2.csproj" Id="b87415b6-0e8e-4c52-9fa1-65999fb48d2f" />
+</Solution>
